@@ -217,7 +217,7 @@ Run the Django server and execute the HTML files.
 ![image](https://github.com/Mithramukund/places-around-me/assets/121608770/46d527b5-9596-4766-acf2-902b01e8ea46)
 
 # Hospital:
-![Screenshot (20)](https://github.com/Hariharanashok/places-around-me/assets/120353431/62548f07-eedf-431b-b0c6-e30d79560970)
+![image](https://github.com/Mithramukund/places-around-me/assets/121608770/90cbe74f-595c-4d28-b832-c606cde032d8)
 
 ## Server Output:
 ![image](https://github.com/Mithramukund/places-around-me/assets/121608770/0114d661-5797-41b9-9f68-160ef1917b25)
