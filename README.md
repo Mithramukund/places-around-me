@@ -205,16 +205,16 @@ Run the Django server and execute the HTML files.
 ![image](https://github.com/Mithramukund/places-around-me/assets/121608770/da03c582-d354-4e09-9df7-0d8e1844a3e2)
 
 # Temple:
-![Screenshot (17)](https://github.com/Hariharanashok/places-around-me/assets/120353431/ce4d5b08-248d-4dc8-bb7e-2572090daa45)
+![image](https://github.com/Mithramukund/places-around-me/assets/121608770/7ff8a9ac-9e97-4e20-8bb7-590ab94b7196)
 
 # School:
-![Screenshot (19)](https://github.com/Hariharanashok/places-around-me/assets/120353431/75f9ddfc-ee09-40e2-9d67-a545ac4043a5)
+![image](https://github.com/Mithramukund/places-around-me/assets/121608770/4c9bdd6a-fb5e-4866-9683-4de228f6b757)
 
 # Beach:
-![Screenshot (16)](https://github.com/Hariharanashok/places-around-me/assets/120353431/efa8a9fb-61c7-40b6-b0fe-0c7d44ee8469)
+![image](https://github.com/Mithramukund/places-around-me/assets/121608770/abbe8dae-3b64-42d5-a480-f877b9c72f96)
 
 # Park:
-![Screenshot (15)](https://github.com/Hariharanashok/places-around-me/assets/120353431/dba3976d-42b0-4321-9996-40c7ab567115)
+![image](https://github.com/Mithramukund/places-around-me/assets/121608770/46d527b5-9596-4766-acf2-902b01e8ea46)
 
 # Hospital:
 ![Screenshot (20)](https://github.com/Hariharanashok/places-around-me/assets/120353431/62548f07-eedf-431b-b0c6-e30d79560970)
