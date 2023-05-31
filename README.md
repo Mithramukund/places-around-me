@@ -202,7 +202,7 @@ Run the Django server and execute the HTML files.
 ```
 ## Output:
 # Map:
-![Screenshot (22)](https://github.com/Hariharanashok/places-around-me/assets/120353431/00fabc55-8763-4dea-8c02-874419ac8420)
+![image](https://github.com/Mithramukund/places-around-me/assets/121608770/da03c582-d354-4e09-9df7-0d8e1844a3e2)
 
 # Temple:
 ![Screenshot (17)](https://github.com/Hariharanashok/places-around-me/assets/120353431/ce4d5b08-248d-4dc8-bb7e-2572090daa45)
@@ -220,10 +220,10 @@ Run the Django server and execute the HTML files.
 ![Screenshot (20)](https://github.com/Hariharanashok/places-around-me/assets/120353431/62548f07-eedf-431b-b0c6-e30d79560970)
 
 ## Server Output:
-![Screenshot (14)](https://github.com/Hariharanashok/places-around-me/assets/120353431/6029bf8c-0158-42f6-ad0f-235f2ea9eed5)
+![image](https://github.com/Mithramukund/places-around-me/assets/121608770/0114d661-5797-41b9-9f68-160ef1917b25)
 
 ## HTML Validator:
-![Screenshot (25)](https://github.com/Hariharanashok/places-around-me/assets/120353431/673efdc9-8bd1-42b0-8f85-18b4b17a8de9)
+![image](https://github.com/Mithramukund/places-around-me/assets/121608770/45dbe5c3-6b46-451f-b3fe-0c73b4ffea44)
 
 ## Result:
 The program for implementing image map is executed successsfully.
